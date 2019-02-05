@@ -1,6 +1,6 @@
 # Pygame-Snake
 
-Simple game Snake made with PyGame.
+Simple game Snake made with PyGame based on https://github.com/filhoweuler/Pygame-Snake.
 
 For start the project:
 <ul>
